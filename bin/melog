@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'melog'
+
+puts "This is a simple command line logging tool."
+puts "Nothing more to see here yet."
