@@ -9,7 +9,8 @@ Gem::Specification.new do |gem|
   gem.files = %w(lib/melog.rb 
                  spec/spec_helper.rb
                  spec/melog_spec.rb
-                 README)
+                 README.md
+                 MIT-LICENSE.md)
   gem.executables << 'melog'
   gem.homepage = 'http://rubygems.org/gems/melog'
 end
